@@ -9,3 +9,7 @@ Many local governments have plans to expand agro-tourism in order to boost the r
 <li>To provide a single comprehensive application that will allow the farmers to manage their farming and business activities.</li> 
 <li>creating a network of such volunteers and grow it into a flourishing community will benefit both the farmers and the volunteers.</li>
 </ol>
+
+<b> FLOW DIAGRAM </b><br>
+
+<b>SAMPLES FROM APP</b><br>
