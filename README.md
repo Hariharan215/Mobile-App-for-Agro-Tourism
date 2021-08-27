@@ -14,3 +14,9 @@ Many local governments have plans to expand agro-tourism in order to boost the r
 ![FLOW DIAGRAM](/samples/flowchart.PNG)
 
 <b>SAMPLES FROM APP</b><br>
+![FLOW DIAGRAM](/samples/home page.PNG)
+![FLOW DIAGRAM](/samples/farmlist.PNG)
+![FLOW DIAGRAM](/samples/chatbot.PNG)
+![FLOW DIAGRAM](/samples/capture1.PNG)
+![FLOW DIAGRAM](/samples/capture2.PNG)
+
