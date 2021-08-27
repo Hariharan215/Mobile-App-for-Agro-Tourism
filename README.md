@@ -11,5 +11,6 @@ Many local governments have plans to expand agro-tourism in order to boost the r
 </ol>
 
 <b> FLOW DIAGRAM </b><br>
+![FLOW DIAGRAM](/samples/flowchart.PNG)
 
 <b>SAMPLES FROM APP</b><br>
