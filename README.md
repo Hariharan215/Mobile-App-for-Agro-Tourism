@@ -14,10 +14,16 @@ Many local governments have plans to expand agro-tourism in order to boost the r
 ![FLOW DIAGRAM](/samples/flowchart.PNG)
 
 <b>SAMPLES FROM APP</b><br>
+Main menu of the app:<br>
 ![mainmenu](/samples/mainmenu.PNG)<br>
+Shop menu sample: <br>
 ![HOME](/samples/homepage.PNG)<br>
+Listed farms: <br>
 ![farmlist](/samples/farmlist.PNG)<br>
+Chatbot assistant: <br>
 ![chatbot](/samples/chatbot.PNG)<br>
+Register farm-house with agro-IT (from farmer's) side: <br>
 ![capture](/samples/Capture.PNG)<br>
+Scheduled visits of visitor with farm, crop-type: <br>
 ![capture2](/samples/Capture2.PNG)<br>
 
